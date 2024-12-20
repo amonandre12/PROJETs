@@ -32,6 +32,7 @@ const layout = useLayoutStore ()
   <p> Discorde</p>
   <p> Gazouiller</p>
   <p>Lien avec GitHub</p>
+  
 </div>
 </div>
 <div class="footer">
